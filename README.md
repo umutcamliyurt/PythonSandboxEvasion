@@ -1,7 +1,7 @@
-# SimpleSandboxEvasion
-### Basic sandbox evasion script written in python
+# PythonSandboxEvasion
+### Simple sandbox evasion scripts written in python
 
-#### It detects:
+#### Basic version detects:
 
 - Wireshark
 
@@ -15,8 +15,18 @@
 
 - System Monitor
 
+#### Advanced version can also detect:
 
-### Results:
+- Mouse movements
+
+- Time zone
+
+### Results(no code obfuscation):
+
+With Advanced sandbox EV:
+
+![Advanved_Sandbox_EV](https://user-images.githubusercontent.com/83503290/130291684-42d2f8a6-e233-4629-904d-005aa7706d1f.png)
+
 
 With sandbox EV:
 
